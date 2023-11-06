@@ -5,7 +5,7 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "泯泷的个人技术空间",
+  title: "泯泷的空间",
   description: "前端小白的技术杂谈",
   head: [
     // 关键词
@@ -17,8 +17,8 @@ export default defineUserConfig({
     ['link', {rel: 'icon', href: '/favicon.ico'}],
     // Open Graph (OG) 标签
     ['meta', {property: 'og:type', content: 'website'}],
-    ['meta', {property: 'og:url', content: 'https://yihuiblog.top/'}],
-    ['meta', {property: 'og:title', content: 'Yihui\'s Blog'}],
+    ['meta', {property: 'og:url', content: 'https://minlong.space/'}],
+    ['meta', {property: 'og:title', content: 'minlong space'}],
     ['meta', {property: 'og:description', content: '前端小白的技术博客'}],
     ['meta', {property: 'og:image', content: 'https://cdn.yihuiblog.top/images/logo-for-blog.jpg'}],
   ],

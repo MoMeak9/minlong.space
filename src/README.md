@@ -3,22 +3,31 @@ home: true
 layout: BlogHome
 icon: home
 title: 首页
-heroImage: /logo.svg
 bgImage: https://cdn.yihuiblog.top/images/bg-for-blog.jpg
-heroText: 你博客的名称
+heroText: 泯泷的空间
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 梦想成为全栈工程师的小开发 <br/> 一心给叔叔赚米的小 “牛马”
 projects:
-  - icon: project
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
+  - icon: link
+    name: 博客仓库
+    desc: 本博客仓库地址
+    link: https://github.com/MoMeak9/MyBlogDoc
 
-footer: 自定义你的页脚文字
+  - icon: link
+    name: 个人文档库仓库
+    desc: 旧文档库仓库地址
+    link: https://github.com/MoMeak9/MyDocs
+
+  - icon: link
+    name: LightWorld 后端
+    desc: 网站后端仓库，基于TypeScript + Express
+    link: https://github.com/MoMeak9/MC-official-website
+
+  - icon: link
+    name: LightWorld 前端
+    desc: 网站前端仓库，基于Nuxt + Vue
+    link: https://github.com/MoMeak9/MC-official-website
+
+
+footer: 总希望在互联网上留下些什么
 ---
-
-这是一个博客主页的案例。
-
-要使用此布局，你应该在页面前端设置 `layout: BlogHome` 和 `home: true`。
-
-相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home/)。
