@@ -7,6 +7,7 @@ const MR_HOPE_AVATAR =
 
 export default hopeTheme(
   {
+    iconAssets: "iconfont",
     hostname: "https://minlong.space",
 
     author: {

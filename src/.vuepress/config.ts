@@ -6,7 +6,8 @@ import theme from "./theme.js"
 
 export default defineUserConfig({
   alias: {
-    "@theme-hope/components/PageFooter": path.resolve(__dirname, "./components/PageFooter.vue")
+    "@theme-hope/components/PageFooter": path.resolve(__dirname, "./components/PageFooter.vue"),
+    "@Waterfall": path.resolve(__dirname, "./components/Waterfall.vue")
   },
   base: "/",
   lang: "zh-CN",

@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "b1f344fd61e565cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e51ab3ce5021c0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c98e827d7c0cb3f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/构建工具应该包含哪些能力？.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "550cc10fc276e892",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cb3631f734de02a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89f9e11106a2b04e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a05ad57bd5afbaf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "常量标志",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18bba26bd8832b08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "161714fb05652607",
+    "type": "split",
+    "children": [
+      {
+        "id": "3281424cb8e505fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d87f03d61cef8b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JavaScript/构建工具应该包含哪些能力？.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3f9b6c967cf7d8f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JavaScript/构建工具应该包含哪些能力？.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e31982aa6a424733",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "efaa33186d266e98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JavaScript/构建工具应该包含哪些能力？.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c98e827d7c0cb3f9",
+  "lastOpenFiles": [
+    "waterfall.md",
+    "JavaScript/WebAudio/Web Audio 滤波器Filter.md",
+    "JavaScript/构建工具应该包含哪些能力？.md",
+    "JavaScript/WebAudio/Tone.js 框架食用指南.md",
+    "JavaScript/面试题/JavaScript高频手撕.md",
+    "JavaScript/面试题/JavaScript 数组去重.md",
+    "JavaScript/面试题/JavaScript 输出判断.md",
+    "JavaScript/面试题/JavaScript 面试题汇总（下）.md",
+    "JavaScript/面试题/JavaScript 面试题汇总（上）.md",
+    "JavaScript/面试题/JavaScript 高频手撕.md",
+    "JavaScript/面试题/小滴课堂JS题目汇总.md",
+    "JavaScript/库/yargs 使用指南.md",
+    "JavaScript/库/Puppeteer 使用指南.md",
+    "JavaScript/库/Vue 3 meta.md",
+    "JavaScript/库/validate-npm-package-name 小而美的库.md",
+    "JavaScript/库/ora 优雅的终端旋转器.md",
+    "JavaScript/库/Prettier.md",
+    "JavaScript/库/Git 相关工具.md",
+    "JavaScript/库/inquirer 使用指南.md",
+    "JavaScript/库/husky.md",
+    "JavaScript/库/Esprima 指南.md",
+    "JavaScript/库/enquirer 指南.md",
+    "JavaScript/库/ESLint.md",
+    "CSS/Tailwind CSS 核心概念：功能类优先.md",
+    "CSS/CSS 父元素没有被子元素撑开问题.md",
+    "CSS/basic/CSS进阶：逻辑组合伪类.md",
+    "JavaScript/面试题",
+    "JavaScript/库",
+    "JavaScript/WebAudio",
+    "面试题合集",
+    "Browser",
+    "外文翻译",
+    "JavaScript/技术实践",
+    "JavaScript/基础知识",
+    "JavaScript",
+    "HTML"
+  ]
+}

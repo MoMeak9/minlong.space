@@ -1,3 +1,8 @@
+---
+category:
+  - WebAudio
+  - 前端
+---
 # Web Audio API - BiquadFilterNode简单低阶滤波器食用指南
 
 `BiquadFilterNode` 接口表示一个简单低阶滤波器（双二阶滤波器），通过 [`AudioContext.createBiquadFilter()`](https://developer.mozilla.org/zh-CN/docs/Web/API/BaseAudioContext/createBiquadFilter) 方法创建。

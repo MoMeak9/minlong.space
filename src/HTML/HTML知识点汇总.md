@@ -1,10 +1,9 @@
 ---
 date: 2022-06-25
-icon: page
 category:
-- HTML
-- 面试题
-- 前端
+  - HTML
+  - 面试题
+  - 前端
 ---
 
 # HTML知识点汇总

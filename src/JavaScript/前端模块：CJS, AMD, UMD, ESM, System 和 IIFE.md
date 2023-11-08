@@ -1,4 +1,4 @@
-# 前端模块分类
+# 前端模块：CJS, AMD, UMD, ESM, System 和 IIFE 
 
 现代 Javascript 项目需要用打包工具来将小段代码编译成库或者应用程序那种更大更复杂的东西。流行的打包器有webpack、Rollup、Parcel、RequireJS 和 Browserify。它们将 JavaScript 代码转换为可以作为一个 bundle 加载的模块。
 
