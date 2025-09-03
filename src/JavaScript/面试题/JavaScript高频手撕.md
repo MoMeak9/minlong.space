@@ -3,6 +3,7 @@ date: 2022-03-28
 category:
   - 面试题
   - 前端
+  - JavaScript
 ---
 
 # JavaScript高频手撕

@@ -2,6 +2,7 @@
 category:
   - 前端
   - JavaScript
+  - 面试题
 ---
 # JavaScript 数组去重
 

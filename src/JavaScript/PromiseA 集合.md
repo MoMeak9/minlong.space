@@ -1,12 +1,11 @@
 ---
-icon: edit
 date: 2022-04-01
 category:
-- 前端
-- JavaScript
+  - 前端
+  - JavaScript
+tags:
+  - Promise
 ---
-
-
 # Promise、Generator、Async 合集
 
 我们知道`Promise`与`Async/await`函数都是用来解决JavaScript中的异步问题的，从最开始的回调函数处理异步，到`Promise`处理异步，到`Generator`处理异步，再到`Async/await`处理异步，每一次的技术更新都使得JavaScript处理异步的方式更加优雅，从目前来看，`Async/await`被认为是异步处理的终极解决方案，让JS的异步处理越来越像同步任务。**异步编程的最高境界，就是根本不用关心它是不是异步**。

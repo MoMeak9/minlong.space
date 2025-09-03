@@ -1,8 +1,9 @@
 ---
 date: 2022-06-29
 category:
-- 前端
-- JavaScript
+  - 前端
+  - JavaScript
+  - 面试题
 ---
 # 小滴课堂JS题目汇总
 

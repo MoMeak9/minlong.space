@@ -1,8 +1,9 @@
 ---
 date: 2022-07-01
 category:
-- 前端
-- JavaScript
+  - 前端
+  - JavaScript
+  - 面试题
 ---
 
 > [「2021」高频前端面试题汇总之JavaScript篇（下）](https://juejin.cn/post/6941194115392634888)

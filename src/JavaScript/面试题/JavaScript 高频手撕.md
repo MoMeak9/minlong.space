@@ -4,8 +4,8 @@ star: false
 category:
   - 前端
   - JavaScript
+  - 面试题
 ---
-
 > [2021」高频前端面试题汇总之手写代码篇](https://juejin.cn/post/6946136940164939813)
 
 # JavaScript 高频手撕

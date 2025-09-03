@@ -1,11 +1,3 @@
----
-category:
-  - JavaScript
-  - lib
-  - npm
----
-# enquirer 指南
-
 ## 安装
 
 [npm](https://www.npmjs.com/) 安装:

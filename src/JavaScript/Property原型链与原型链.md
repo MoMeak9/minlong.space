@@ -3,8 +3,7 @@ date: 2022-07-15
 category:
 - 前端
 ---
-
-# 原型链与原型链
+# Property原型链与原型链
 
 >作者：尼克陈
 >链接：https://juejin.cn/post/6934498361475072014
